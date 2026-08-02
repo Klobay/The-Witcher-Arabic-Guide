@@ -31,7 +31,7 @@ export function HomePage() {
           <p className="text-xs sm:text-sm tracking-[0.3em] text-gold uppercase mb-6 animate-fade-in">
             مرجع عربي تفاعلي
           </p>
-          <h1 className="font-display text-4xl sm:text-6xl text-ink leading-[1.15] mb-4 animate-fade-up">
+          <h1 className="font-display text-4xl sm:text-6xl text-ink leading-tight mb-4 animate-fade-up">
             الدليل العربي لعالم الويتشر
           </h1>
           <p className="text-base sm:text-lg text-ink-3 font-sans tracking-[0.15em] mb-8 animate-fade-in">
